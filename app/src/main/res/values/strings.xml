@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">multi-page-application</string>
+    <string name="multipage">Page1</string>
+    <string name="Message">Message</string>
+    <string name="GotoButton">Goto Page 2</string>
+    <string name="Page2">Page2</string>
+</resources>
